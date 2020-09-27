@@ -2,6 +2,8 @@
 
 Python version - 3.8.5 x64
 
+Clone project
+
 Before launching, create virtual environment with packages from requirements.txt
 
 
