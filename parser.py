@@ -10,7 +10,8 @@ def main():
     greeting = """Hello! To get information about teachers type 1. To get information about departments print 2. Type 0 to exit.
 Rating about teachers was fetched from:
     1) vk.com/pmprepod and represented in format "positive-negative-neutral | total"
-    2) professorrating.org, represented as number <= 5"""
+    2) professorrating.org, represented as number <= 5
+so, 1 or 2?"""
     print(greeting)
 
     # cycle while not exit
